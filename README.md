@@ -1,6 +1,6 @@
 # 피크랩(pickRAP)
-![image](https://user-images.githubusercontent.com/78305431/195969019-908e5eb6-456b-449e-a6e5-ec1b60ae7552.png)
 
+![image](https://user-images.githubusercontent.com/78305431/195970706-7b80710e-996f-4a49-a000-bbee149d126f.png)
 > ‘고르다’의 의미를 가진 Pick과 우리 서비스의 주기능인 Scrap을 합성하여, **본인의 취향대로 고르고 이를 모아본다** 라는 서비스 핵심기능을 함축한 이름입니다.
 
 # 👋 우리는 OH!ttention~ 입니다.
