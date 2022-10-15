@@ -5,6 +5,7 @@
 
 
 # 👋 우리는 OH!ttention~ 입니다.
+[Oh!ttention~ 팀문화 보러가기](https://github.com/KUSITMS-26th/26th_T5_pickRAP/wiki/%F0%9F%96%87--OH!ttention~-%ED%8C%80%EB%AC%B8%ED%99%94)
 
 | 팀 | 이름 | 역할 |
 | --- | --- | --- |
@@ -22,7 +23,7 @@
 
 ### *[Head copy]*
 
-```www.scrapyourlife.pick.Rap```
+> 흩어진 나를 모으다, 피크랩
 
 ### *[Sub copy]*
 
@@ -269,4 +270,4 @@ ref : [gitmoji](https://gitmoji.dev/)
 
 
 # 주요 기능 명세서
-
+[주요 기능 명세서 보러가기](https://github.com/KUSITMS-26th/26th_T5_pickRAP/wiki/%EA%B8%B0%EB%8A%A5-%EB%AA%85%EC%84%B8%EC%84%9C)
