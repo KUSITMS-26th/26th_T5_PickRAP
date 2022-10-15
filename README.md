@@ -1,7 +1,8 @@
-# 피크랩(pickRAP)
+# <img src="https://user-images.githubusercontent.com/102985637/195971040-195502a8-23fa-4ad2-894c-ddc031f0ba57.png" width="50" height="50"> 피크랩(pickRAP)
 
 ![image](https://user-images.githubusercontent.com/78305431/195970706-7b80710e-996f-4a49-a000-bbee149d126f.png)
 > ‘고르다’의 의미를 가진 Pick과 우리 서비스의 주기능인 Scrap을 합성하여, **본인의 취향대로 고르고 이를 모아본다** 라는 서비스 핵심기능을 함축한 이름입니다.
+
 
 # 👋 우리는 OH!ttention~ 입니다.
 
@@ -29,7 +30,7 @@
 
 ### ***[Value]***
 
-![image](https://user-images.githubusercontent.com/78305431/195969181-2716eadd-c7c5-439f-960f-54dc8f09259a.png)
+<img src="https://user-images.githubusercontent.com/78305431/195969181-2716eadd-c7c5-439f-960f-54dc8f09259a.png" width="600" height="500">
 
 ## pickRap의 3가지 가치
 
@@ -122,9 +123,9 @@
 |<img src="./images/design_5.jpg" >|<img src="./images/design_6.jpg" >|
 <br>
 
-![image](https://user-images.githubusercontent.com/78305431/195969101-33564f27-c8b5-4b4d-ac25-20170d3f3f36.png)
+|![image](https://user-images.githubusercontent.com/78305431/195969101-33564f27-c8b5-4b4d-ac25-20170d3f3f36.png)|**보라색은 창의적인 이미지와 상상력을 자극하는 특성을 지닌 컬러로, 다양한 스크랩 활동을 통해 자신만의 정체성을 찾아가는 pickRAP의 대표색입니다.**|
+|:---:|:---:|
 
-**보라색은 창의적인 이미지와 상상력을 자극하는 특성을 지닌 컬러로, 다양한 스크랩 활동을 통해 자신만의 정체성을 찾아가는 pickRAP의 대표색입니다.**
 ---
 
 # 기술 스택
@@ -184,19 +185,9 @@
 ### Commit Message Convention
 > gitmoji tool 적용
 
-![image](https://user-images.githubusercontent.com/78305431/195970598-ca31a461-caf1-4d0b-ad6c-40682a6c2c44.png)
+|<img src="https://user-images.githubusercontent.com/78305431/195970598-ca31a461-caf1-4d0b-ad6c-40682a6c2c44.png" width="300" height="450">|🎉init: 개발 환경 초기 세팅<br>✨feat: 새로운 기능 추가<br>💄design: UI를 위한 스타일링<br>🐛fix: 버그 수정<br>📝docs: 문서 추가, 수정, 삭제<br>♻️refactor: 코드 리팩터링<br>style: 코드 포맷팅(코드 순서 변경, 세미콜론 추가)<br>asset: 폰트, 이미지 추가<br>chore: 그 외 자잘한 수정|
+|:---:|:---:|
 
-```
-🎉init: 개발 환경 초기 세팅
-✨feat: 새로운 기능 추가
-💄design: UI를 위한 스타일링
-🐛fix: 버그 수정
-📝docs: 문서 추가, 수정, 삭제
-♻️refactor: 코드 리팩터링
-style: 코드 포맷팅(코드 순서 변경, 세미콜론 추가)
-asset: 폰트, 이미지 추가
-chore: 그 외 자잘한 수정
-```
 ref : [gitmoji](https://gitmoji.dev/)
 
 ## 이슈 템플릿
