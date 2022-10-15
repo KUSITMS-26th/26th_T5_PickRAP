@@ -33,17 +33,15 @@
 
 ## pickRap의 3가지 가치
 
-<span style="background-color : #F4DFFF">Pick</span>
+**Pick**
 
 사용자가 타인이 아닌 자신이 진짜 좋아하는 걸 쌓아갈 수 있도록 한다.
 
-> ```Discover```
-> 
+**Discover**
 
 사용자가 자신이 쌓아 나간 콘텐츠를 자유롭게 탐색하고 꺼내 보며 스스로를 찾아나갈 수 있도록 돕는다.
 
-> ```**Share**```
-> 
+**Share** 
 
 사용자가 자신을 전시해야한다는 압박감에서 벗어나 자신만의 콘텐츠를 활용해 다른 사용자들과 교류할 수 있도록 한다.
 
@@ -69,7 +67,6 @@
 
 # User Research 및 시장 조사 내용
 
-**서비스 차별성**
 ### 서비스 차별성
 ||pickRAP|핀터레스트|포켓|scrap book|
 |:---|:---|:---|:---|:---|
@@ -118,10 +115,6 @@
 ![image](https://user-images.githubusercontent.com/78305431/195969220-a569b649-5fa7-4f02-aae8-337e52cc2d35.png)
 
 # 디자인 무드보드 및 서비스 로고
-
-![124123.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/34691a1c-b98b-44e9-9fa3-11bffad89701/124123.jpg)
-
-![125.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/61916cca-66ac-403d-be09-4cc9330122f8/125.jpg)
 
 
 ![image](https://user-images.githubusercontent.com/78305431/195969101-33564f27-c8b5-4b4d-ac25-20170d3f3f36.png)
