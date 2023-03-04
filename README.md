@@ -181,5 +181,3 @@
 ![image](https://user-images.githubusercontent.com/78305431/195969272-81278561-93b7-46c7-b98a-e44ee98e9a7c.png)
 
 
-# 📜 주요 기능 명세서
-[주요 기능 명세서 보러가기](https://github.com/KUSITMS-26th/26th_T5_pickRAP/wiki/%EA%B8%B0%EB%8A%A5-%EB%AA%85%EC%84%B8%EC%84%9C)
